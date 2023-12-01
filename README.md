@@ -16,8 +16,8 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/thithi250696/thi/blob/main/README.md)
->나의 프론트엔드 포트폴리오 (TOYCONN 프로젝트)  
+### 1. [첫 프로젝트](https://github.com/thithi250696/thi/blob/main/README.md)
+>나의 Crawling 및 DB 포트폴리오 (TOYCONN 프로젝트)  
 >개발 기간: 2023.10.01 ~ 2023.11.30  
 >  
 >기술 스택:  
