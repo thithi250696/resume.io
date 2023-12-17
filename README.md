@@ -10,7 +10,7 @@
 
 ## :pushpin: Contact
 - 이메일: ngohoaithi40k18@gmail.com
-- 블로그: 
+- 블로그: https://velog.io/@thithi250696
 - 깃헙: https://github.com/thithi250696
 
 </br>
