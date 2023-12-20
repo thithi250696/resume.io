@@ -16,7 +16,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [첫 프로젝트](https://github.com/thithi250696/thi/blob/main/README.md)
+### 0. [첫 프로젝트](https://github.com/thithi250696/thi/blob/main/README.md)
 >나의 Crawling 및 DB 포트폴리오 (TOYCONN 프로젝트)  
 >개발 기간: 2023.10.01 ~ 2023.11.30  
 >  
@@ -26,8 +26,18 @@
 >[프로젝트 상세 설명](https://github.com/thithi250696/thi/blob/main/README.md) 참고
 
 ---
+### 1. [두 반째 프로젝트](https://github.com/thithi250696/thi/blob/main/README.md)
+>나의 Crawling 및 DB 포트폴리오 (TOYCONN 프로젝트)  
+>개발 기간: 2023.10.01 ~ 2023.11.30  
+>  
+>기술 스택:  
+> Python/MySQL Oracle/Maven
+>  
+>[프로젝트 상세 설명](https://github.com/thithi250696/thi/blob/main/README.md) 참고
 
-### 2. [두 번째 프로젝트](https://github.com/thithi250696/thi/blob/main/README.md)
+---
+
+### 2. [세 번째 프로젝트](https://github.com/thithi250696/thi/blob/main/README.md)
 >두 번째 프로젝트 간략 소개  (팀 프로젝트)  
 >개발 기간: 2020.7.18 ~ 2020.11.5  
 >  
@@ -39,7 +49,7 @@
 
 ---
 
-### 3. [세 번째 프로젝트](https://github.com/thithi250696/thi/blob/main/README.md)
+### 3. [네 번째 프로젝트](https://github.com/thithi250696/thi/blob/main/README.md)
 >세 번째 프로젝트 간략 소개  (개인 프로젝트)  
 >개발 기간: 2018.1.18 ~ 2018.4.5  
 >  
