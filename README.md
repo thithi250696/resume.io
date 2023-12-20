@@ -17,7 +17,7 @@
 
 ## :pushpin: Projects
 ### 0. [첫 프로젝트](https://github.com/thithi250696/1stProject/blob/main/README.md)
->나의 Java 포트폴리오 (공부하는 게임 - 영어, 수학)
+>나의 Java 포트폴리오 (공부하는 게임 - 영어, 수학)<br>
 >개발 기간: 2023.09.22 ~ 2023.09.25  
 >  
 >기술 스택:  
