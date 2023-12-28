@@ -21,6 +21,7 @@
 ## :pushpin: 기술
 - 데이터수집 및 전처리, 분석, 시각화, 웹 크롤링, 머신러닝, 딥러닝
 - React, HTML, CSS, JavaScript, Java
+- Database, SQL (중첩 서브쿼리)
 
 
 ## :pushpin: Projects
