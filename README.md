@@ -12,8 +12,9 @@
 - 이메일: ngohoaithi40k18@gmail.com
 - 블로그: https://velog.io/@thithi250696
 - 깃헙: https://github.com/thithi250696
-
 </br>
+## :pushpin: Skills
+
 
 ## :pushpin: Projects
 ### 0. [첫 프로젝트](https://github.com/thithi250696/1stProject/blob/main/README.md)
