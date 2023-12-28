@@ -39,7 +39,7 @@
 >개발 기간: 2023.10.01 ~ 2023.11.30  
 >  
 >기술 스택:  
-> Python/MySQL Oracle/Maven
+> Python/MySQL Oracle/Maven/Crawling
 >  
 >[프로젝트 상세 설명](https://github.com/thithi250696/2ndProject/blob/main/README.md) 참고
 
