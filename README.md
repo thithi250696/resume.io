@@ -14,7 +14,13 @@
 - 깃헙: https://github.com/thithi250696
 </br>
 
-## :pushpin: Skills
+## :pushpin: 교육아수
+> 회계감사학졸업
+> 스마트인재개발원 디지털 산업 용합 빅데이터 플랫폼 개발자 교육 (6개월)
+
+## :pushpin: 기술
+- 데이터수집 및 전처리, 분석, 시각화, 웹 크롤링, 머신러닝, 딥러닝
+- React, HTML, CSS, JavaScript, Java
 
 
 ## :pushpin: Projects
