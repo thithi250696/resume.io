@@ -1,6 +1,6 @@
 ## 화이티 포트폴리오
->캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
-
+>“And, when you want something, all the universe conspires in helping you to achieve it.”
+― Paulo Coelho, The Alchemist
 </br>
 
 ## :pushpin: 👧 안녕하세요, 데이터분석 개발자 화이티입니다.</br>
