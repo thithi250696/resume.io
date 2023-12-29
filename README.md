@@ -7,6 +7,7 @@ Portfolio ppt :https://github.com/thithi250696/resume.io/files/13791315/Portfoli
 
 </br>
 
+
 ## :pushpin: 👧 안녕하세요, 데이터분석가 화이티입니다.</br>
 <strong>배움을 나누면 함께 성장하는 것을 좋아합니다. 🥰</strong></br>
 공부하면서 지식을 정리해서 블로그를 다양한 주제에 작성하였습니다</br>
