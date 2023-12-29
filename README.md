@@ -42,7 +42,7 @@ Portfolio ppt :https://github.com/thithi250696/resume.io/files/13791315/Portfoli
 ---
 ### 1. [두 반째 프로젝트](https://github.com/thithi250696/2ndProject/blob/main/README.md)
 >나의 Crawling 및 DB 포트폴리오 (TOYCONN 프로젝트)  
->개발 기간: 2023.10.01 ~ 2023.11.30  
+>개발 기간: 2023년 11월 14일 ~ 11월 30일
 >  
 >기술 스택:  
 > Python/MySQL Oracle/Maven/Crawling
