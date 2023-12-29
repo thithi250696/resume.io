@@ -2,7 +2,9 @@
 >“And, when you want something, all the universe conspires in helping you to achieve it.”
 ― Paulo Coelho, The Alchemist
 </br>
+Portfolio ppt : [Portfolio.pdf](https://github.com/thithi250696/resume.io/files/13791315/Portfolio.pdf)
 
+</br>
 ## :pushpin: 👧 안녕하세요, 데이터분석가 화이티입니다.</br>
 <strong>배움을 나누면 함께 성장하는 것을 좋아합니다. 🥰</strong></br>
 공부하면서 지식을 정리해서 블로그를 다양한 주제에 작성하였습니다</br>
